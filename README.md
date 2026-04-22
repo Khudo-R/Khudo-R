@@ -7,7 +7,7 @@ Professional software engineer with 5+ years of experience specializing in high-
 ---
 
 ### 🚀 Highlights & Impact
-* 🏛️ **Government-Scale Systems:** Built and scaled 2 critical government platforms (**census.uz**, **siat.uz**) serving **3M+ citizens** and supporting over 134k data downloads.
+* 🏛️ **Government-Scale Systems:** Built and scaled 2 critical government platforms serving **3M+ citizens** and supporting over 134k data downloads.
 * ⚙️ **Efficiency & Automation:** Designed an automated multi-level reporting system that saved users over **30 person-hours** per reporting cycle.
 * ⚡ **Performance Optimization:** Orchestrated comprehensive codebase refactoring and integrated strict testing pipelines (**Vitest, Playwright**), resulting in a **10% boost in performance** and improved developer velocity.
 * 🏗️ **Legacy Modernization:** Migrated legacy monolithic applications to modern architectures (**Vue 3, TS**), ensuring seamless frontend-backend integration and implementing robust web security practices.
