@@ -2,16 +2,16 @@
 
 **Frontend-focused Software Engineer | Full-stack Aspirant | Based in Tokyo, Japan 🇯🇵**
 
-[cite_start]Senior-level Frontend Engineer with 5+ years of experience[cite: 1, 4]. [cite_start]I specialize in architecting mission-critical web and mobile applications using the **Vue.js ecosystem** and **React Native**[cite: 4, 5, 8]. [cite_start]I am currently actively expanding my professional capabilities into **Full-stack development** through intensive projects involving **Go, Node.js, and PostgreSQL**[cite: 6, 8].
+Professional software engineer with 5+ years of experience specializing in high-performance frontend applications, cross-platform mobile development, and scalable UI architectures. I am an expert in the **Vue.js ecosystem** and **React Native**, currently expanding my professional capabilities into **Full-stack development** using **Go, Node.js, and PostgreSQL**.
 
 ---
 
 ### 🚀 Highlights & Impact
-* [cite_start]🏛️ **Government-Scale Systems:** Built and scaled 2 critical government platforms (**census.uz**, **siat.uz**) serving **3M+ citizens** and supporting over 134k data downloads[cite: 31].
-* [cite_start]⚙️ **Efficiency & Automation:** Designed an automated multi-level reporting system that saved users over **30 person-hours** per reporting cycle[cite: 32].
-* [cite_start]⚡ **Performance Optimization:** Orchestrated comprehensive codebase refactoring and integrated strict testing pipelines (**Vitest, Playwright**), resulting in a **10% boost in performance** and improved developer velocity[cite: 14].
-* [cite_start]🏗️ **Legacy Modernization:** Migrated legacy monolithic applications to modern architectures (**Vue 3, TS**), ensuring seamless frontend-backend integration[cite: 15, 33].
-* [cite_start]👥 **Leadership:** Experienced in establishing engineering standards, mentoring teams of **5+ developers**, and reducing technical debt through structured code reviews and workshops[cite: 20, 21].
+* 🏛️ **Government-Scale Systems:** Built and scaled 2 critical government platforms (**census.uz**, **siat.uz**) serving **3M+ citizens** and supporting over 134k data downloads.
+* ⚙️ **Efficiency & Automation:** Designed an automated multi-level reporting system that saved users over **30 person-hours** per reporting cycle.
+* ⚡ **Performance Optimization:** Orchestrated comprehensive codebase refactoring and integrated strict testing pipelines (**Vitest, Playwright**), resulting in a **10% boost in performance** and improved developer velocity.
+* 🏗️ **Legacy Modernization:** Migrated legacy monolithic applications to modern architectures (**Vue 3, TS**), ensuring seamless frontend-backend integration and implementing robust web security practices.
+* 👥 **Leadership:** Experienced in establishing engineering standards, mentoring teams of **5+ developers**, and reducing technical debt through structured code reviews and technical workshops.
 
 ### 📈 GitHub Stats
 
@@ -31,7 +31,7 @@
 | **DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
 
 ### 🛠 Currently Exploring / Working On
-* [cite_start]🌱 Deepening **Golang** ecosystem and distributed systems architecture[cite: 6].
+* 🌱 Deepening **Golang** ecosystem and distributed systems architecture.
 * 🏗️ Building a full-stack **Medium-clone** using **Express**, **Prisma**, and **PostgreSQL**.
 
 ### 👋 Let's Connect
