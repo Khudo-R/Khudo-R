@@ -37,7 +37,7 @@ Professional software engineer with 5+ years of experience specializing in high-
 ### 👋 Let's Connect
 <p align="left">
 <a href="mailto:mirkhud97@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_ID" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/khudoyorkhon-mirjalolov/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ---
