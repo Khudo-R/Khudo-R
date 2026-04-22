@@ -32,7 +32,7 @@ Professional software engineer with 5+ years of experience specializing in high-
 
 ### 🛠 Currently Exploring / Working On
 * 🌱 Deepening **Golang** ecosystem and backend architecture.
-* 🏗️ Building a full-stack Medium-clone using **Express**, **Prisma**, and **Vue 3**.
+* 🏗️ Building a full-stack Medium-clone using **Express**, **Prisma**.
 
 ### 👋 Let's Connect
 <p align="left">
